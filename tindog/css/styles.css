@@ -49,9 +49,29 @@ h1 {
 
                                                     /* FEATURES */
 
+#features {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    line-height: .4rem;
+}
 
+.feature-item {
+    padding: 0S;
+}
 
+.icon {
+    color: #ef8172;
 
+}
+
+.fheading {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.icon:hover {
+    color: #4519d5;
+}
 
 /* TESTIMONIALS */
 
