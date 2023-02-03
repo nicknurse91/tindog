@@ -148,6 +148,17 @@ h1 {
 /* PRICING */
 
 
+#pricing {
+    text-align: center;
+    padding: 50px auto;
+    margin: 20px 0;
+}
+
+.pcol {
+    padding: 4px;
+}
+
+
 
 
 /* CALL TO ACTION */
